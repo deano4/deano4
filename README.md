@@ -1,4 +1,4 @@
-Hi there 👋
+###Hi there 👋 I'm current working on starting my programming journey. I'm currently attempt to start my first project. I'm currently learning web development. I'm not looking to collaborate currently. I'm not looking for help right now either.
 
 <!--
 **deano4/deano4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
