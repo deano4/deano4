@@ -1,4 +1,4 @@
-###Hi there 👋 I'm current working on starting my programming journey. I'm currently attempt to start my first project. I'm currently learning web development. I'm not looking to collaborate currently. I'm not looking for help right now either.
+###Hi there 👋 I'm a freshman software engineering major at [UCI](https://uci.edu/). I'm currently **starting** my programming journey. A goal I'm working towards is starting my first project. I'm currently learning web development. I don't know if I want to focus on web development but I am currently just trying to learning anything right now.
 
 <!--
 **deano4/deano4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
