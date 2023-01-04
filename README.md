@@ -1,4 +1,5 @@
-###Hi there 👋 I'm a freshman software engineering major at [UCI](https://uci.edu/). \n
+###Hi there 👋 I'm a freshman software rengineering major at [UCI](https://uci.edu/).
+
 I'm currently **starting** my programming journey. A goal I'm working towards is starting my first project. I'm currently learning web development. I don't know if I want to focus on web development but I am currently just trying to learning anything right now.
 
 <!--
